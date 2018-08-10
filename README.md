@@ -6,7 +6,9 @@
    2. [Python异步编程](https://github.com/mggger/pyRelate/blob/master/features/asyncio.ipynb) 
    3. [动态debug(settrace)](https://github.com/mggger/pyRelate/blob/master/features/debug.ipynb)
 2. 机器学习相关
-   1. [一元线性回归](https://github.com/mggger/pyRelate/blob/master/machine-learning/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
+   1. 非监督学习
+      1. [一元线性回归](https://github.com/mggger/pyRelate/blob/master/machine-learning/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
+      2. [逻辑回归](https://github.com/mggger/pyRelate/blob/master/machine-learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92.ipynb)
 3. python第三方库
    1. 分布式计算框架 **Dask**
       1. [dask简介](https://github.com/mggger/pyRelate/blob/master/third-party/dask/Dask.ipynb)
