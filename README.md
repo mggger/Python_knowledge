@@ -13,3 +13,5 @@
    1. 分布式计算框架 **Dask**
       1. [dask简介](https://github.com/mggger/pyRelate/blob/master/third-party/dask/Dask.ipynb)
       2. [dask几种任务调度方式以及流式计算](https://github.com/mggger/pyRelate/blob/master/third-party/dask/dask-scheduling.ipynb)
+   2. 消息队列 [Rabbitmq](https://github.com/mggger/pyRelate/blob/master/third-party/rabbitmq/rabbitmq.ipynb)
+   
